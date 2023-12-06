@@ -1,15 +1,21 @@
-<center>
+<p align="center">
+<b>Welcome to my GitHub Page, I'm Valery</b>
+</p>
 
-### Welcome to my GitHub Page, I'm Valery
-</center>
  <p align="center">
 <div style="text-align: center;">
 <img width="35%" title="MyPhoto" src="images/photo/photo2.png" alt="IntelliJ IDEA Logo">
 </div>
 
-<p align="center"><b>I’m Test Automation Engineer</b></p>
+<p align="center">
+<b>I’m Test Automation Engineer
+</b>
+</p>
 
-#### I never stand still and always learn something new. My norm is 2-3 courses per year.
+<p align="center">
+<b>I write automated tests in Java and always being open to interesting projects</b>
+</p>
+
 
 ### My work stack:
 <p align="center">
@@ -19,7 +25,9 @@
 <code><img width="5%" title="Java" src="images/logo/java.png" alt="Java Logo"></code>
 <code><img width="4%" title="Rest Assured" src="images/logo/restAssured.png" alt="Rest Assured Logo"></code>
 <code><img width="5%" title="Junit5" src="images/logo/junit5.png" alt="JUnit5 Logo"></code>
+<code><img width="4%" title="TestNG" src="images/logo/testng.png" alt="TestNG Logo"></code>
 <code><img width="5%" title="Gradle" src="images/logo/gradle.png" alt="Gradle Logo"></code>
+<code><img width="4%" title="Maven" src="images/logo/maven.png" alt="Maven Logo"></code>
 <code><img width="4%" title="Selenium" src="images/logo/selenium.png" alt="Selenium Logo"></code>
 <code><img width="5%" title="Selenide" src="images/logo/selenide.png" alt="Selenide Logo"></code>
 <code><img width="5%" title="Jenkins" src="images/logo/jenkins.png" alt="Jenkins Logo"></code>
@@ -27,7 +35,6 @@
 <code><img width="5%" title="Allure Report" src="images/logo/allure.png" alt="Allure Report Logo"></code>
 <code><img width="5%" title="Allure TestOps" src="images/logo/allureTestops.png" alt="Allure TestOps Logo"></code>
 <code><img width="5%" title="Jira" src="images/logo/jira.png" alt="Jira Logo"></code>
-<code><img width="5%" title="Telegram" src="images/logo/telegram.png" alt="Telegram Logo"></code>
 </div>
 
 <center>
@@ -43,5 +50,6 @@
 
 <center>
 
-### 📄My completed courses and projects:
+### 📄My completed courses and projects
+#### I never stand still and always learn something new. My norm is 2-3 courses per year
 </center>
