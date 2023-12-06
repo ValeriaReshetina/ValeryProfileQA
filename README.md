@@ -7,10 +7,7 @@
 <img width="35%" title="MyPhoto" src="images/photo/photo2.png" alt="IntelliJ IDEA Logo">
 </div>
 
-<center>
-
-### I’m Test Automation Engineer
-</center>
+<p align="center"><b>I’m Test Automation Engineer</b></p>
 
 #### I never stand still and always learn something new. My norm is 2-3 courses per year.
 
